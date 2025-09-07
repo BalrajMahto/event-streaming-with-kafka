@@ -45,6 +45,10 @@ Traditional databases/queues are **not built to**:
 
 
 ---
+## 🖼️ Architecture Diagram
+
+![Kafka Architecture](https://github.com/BalrajMahto/event-streaming-with-kafka/blob/main/architecture.png?raw=true)
+
 
 ## ⚡ Getting Started
 
@@ -86,10 +90,6 @@ The architecture demonstrates how different components interact in an **event st
 5. **Client.js** provides shared KafkaJS configuration across Producer/Consumer/Admin.  
 
 ---
-
-## 🖼️ Architecture Diagram
-
-![Kafka Architecture](https://github.com/BalrajMahto/event-streaming-with-kafka/blob/main/architecture.png?raw=true)
 
 ---
 
