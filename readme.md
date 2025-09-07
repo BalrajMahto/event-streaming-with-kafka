@@ -89,7 +89,7 @@ The architecture demonstrates how different components interact in an **event st
 
 ## 🖼️ Architecture Diagram
 
-![Kafka Architecture](assets/architecture.png)
+![Kafka Architecture](architecture.png)
 
 ---
 
