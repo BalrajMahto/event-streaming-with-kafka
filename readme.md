@@ -89,7 +89,7 @@ The architecture demonstrates how different components interact in an **event st
 
 ## 🖼️ Architecture Diagram
 
-![Kafka Architecture](architecture.png)
+![Kafka Architecture](https://github.com/BalrajMahto/event-streaming-with-kafka/blob/main/architecture.png?raw=true)
 
 ---
 
