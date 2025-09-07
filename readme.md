@@ -43,17 +43,6 @@ Traditional databases/queues are **not built to**:
 - **Node.js** with [KafkaJS](https://kafka.js.org/) library  
 - **Producer / Consumer / Admin APIs**  
 
----
-
-## 📂 Project Structure
-kafka-app/
-├── admin.js # Creates Kafka topics
-├── client.js # Kafka client configuration
-├── consumer.js # Kafka consumer (reads messages)
-├── producer.js # Kafka producer (sends messages)
-├── package.json # Dependencies
-└── .gitignore # Ignored files
-
 
 ---
 
@@ -101,8 +90,6 @@ The architecture demonstrates how different components interact in an **event st
 ## 🖼️ Architecture Diagram
 
 ![Kafka Architecture](assets/architecture.png)
-
-*(Replace `assets/architecture.png` with the actual path to your diagram in the repo)*
 
 ---
 
